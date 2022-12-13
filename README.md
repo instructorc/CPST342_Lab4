@@ -21,8 +21,10 @@ Make sure your branch is clean prior to pushing up changes.  Make sure the chang
 1.  Navigate to Heroku.com and create a new account
 2.  Click New on the top right corner and select **"Create a new app"**
     - A debit/credit card is needed, but I would encourage you to delete the application and close your Heroku account if you do not plan to use beyond this course.
+    - **Make sure to register for the GitHub Student Developer Pack and click on this [link](https://www.heroku.com/github-students) to receive a credit that is worth $13 a month for 12 months**
     - Heroku will ask for debit/credit card information to create an app, but listed below is a statement from Heroku that explains how a charge would occur. 
-       -  *We won’t charge you at this time. Heroku resources are prorated to the second, and you only pay for the resources you use.*    
+       -  *We won’t charge you at this time. Heroku resources are prorated to the second, and you only pay for the resources you use.*
+       
 3.  Provide an app name and click Create app.- Consider a name that represents your application
 
 4.  Once you have completed this step, you'll be taken to the dashboard of your app.  Open the deploy tab and scroll to the "Deployment method" section.
