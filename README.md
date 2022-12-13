@@ -5,7 +5,7 @@ Using the application provided in your assigned repository, you will walk-throug
 ## Requirements
 
 ### Step 1 - Setup project folder and start-up server
-1.  Pull down the contents of your assigned repository and install the necessary dependencies need to run the application.  The package.json file has already been created and identifies the packages your repository will depend upon.
+1.  Fork this repository and pull down the contents to your local machine. Install the necessary dependencies need to run the application.  The package.json file has already been created and identifies the packages your repository will depend upon.
 2.  Start the server and make sure you are able to create and delete grocery items.
 
 ### Step 2 - Adjust the port to respond to port on cloud instance 
